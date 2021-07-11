@@ -22,6 +22,6 @@ A simple console based Quiz game in C language.
  - Play the quiz
 
 #### Snapshot
-
+![](https://github.com/yashpaneliya/Quiz-InC/blob/main/Menu.png)
 
 This was the first project developed by me 🤩🚀
